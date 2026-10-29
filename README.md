@@ -1,13 +1,17 @@
-Olá eu sou a Nikole! (•ˋ _ ˊ•)
-- 🔭 Hoje estudando Desenvolvimento de Sistemas na Etec Carmine
-- 📫 Meu contato: nikoledecarvalhofrazao@gmail.com
-- 🐱‍💻 Pronomes: ela/dela
 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Nikole Frazão
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-end em formação`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Oii! Eu sou a Nikole 
+
+Sou estudante de Desenvolvimento de Sistemas na ETEC Carmine e atualmente estou no 2º ano do Ensino Médio.
+
+🎨 Gosto da área de tecnologia e tenho me interessado cada vez mais pelo desenvolvimento Front-end, principalmente pela possibilidade de unir programação, criatividade e design para criar sites.
+
+🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript, colocando meus conhecimentos em prática e explorando coisas novas pelo caminho.
+
+ Aqui no meu GitHub, compartilho meus projetos, meus aprendizados e um pouquinho da minha evolução na programação.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -28,7 +32,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/nikolefrazao6?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
@@ -159,23 +163,3 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
